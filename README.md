@@ -46,8 +46,8 @@
 ### 📫 Reach Me
 
 - 📧 Email: **nigam281098@gmail.com**
-- 💼 LinkedIn: *(Add your link here)*  
-- 💻 GitHub: *(Already here 😄)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/kishan-nigam-4a03a421a/)*  
+- 💻 Resume: *(https://drive.google.com/file/d/1Oo2StKOc3w2SQhmzF1zJcBtoNAsT_h7K/view?usp=sharing)*  
 
 ---
 
